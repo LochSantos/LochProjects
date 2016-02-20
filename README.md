@@ -7,7 +7,7 @@ public class README extends JFrame {
 Readme()
 {
 
-system.out.println("OWYEAH");
+System.out.println("OWYEAH");
 
 }
 }
